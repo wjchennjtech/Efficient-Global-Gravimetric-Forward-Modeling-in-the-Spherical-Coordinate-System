@@ -1,0 +1,1 @@
+# Efficient-Global-Gravimetric-Forward-Modeling-in-the-Spherical-Coordinate-System
